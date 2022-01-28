@@ -1,5 +1,6 @@
 from collections import deque
 import time
+from Music.Songs import Song
 
 #TODO add shuffle decorator that plays songs at random
 #TODO add tests for ALL methods
