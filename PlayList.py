@@ -3,6 +3,7 @@ import time
 
 #TODO add shuffle decorator that plays songs at random
 #TODO add tests for ALL methods
+#TODO allow iteration over whole track list using for-in loop
 class PlayList():
     def __init__(self):
         self.previous = deque()
